@@ -1,1 +1,6 @@
-
+{
+    "configs": [
+        {
+            "name": "main-cloud",
+            "url": "https://raw.githubusercontent.com/skizzzskizz-cloud/kirm-cloud.pl/refs/heads/main/main.lua"
+        },
