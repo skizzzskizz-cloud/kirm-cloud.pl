@@ -1,6 +1,4 @@
 {
-    "configs": [
-        {
-            "name": "main-cloud",
-            "url": "https://raw.githubusercontent.com/skizzzskizz-cloud/kirm-cloud.pl/refs/heads/main/main.lua"
-        },
+  "configs": {
+    "sKIZZMAIN": {
+      "settings": "eyJjb25maWcyIjpbeyJlbmFibGUiOmZhbHNlLCJ5YXdfdHlwZSI6IkRlZmF1bHQiLCJtb2RfdHlwZSI6Ik9mZiIsInBpdGNoX3ZhbHVlMiI6MCwiZGVmX2JvZHlfc2xpZGVyIjowLCJkZWZlbnNpdmUiOmZhbHNlLCJkZWZfYm9keV95YXdfdHlwZSI6Ik9mZiIsInlhd192YWx1ZSI6MCwieWF3X3JpZ2h0IjowLCJwaXRjaF9yYW5kb21fdmFsdWUxIjowLCJwaXRjaF9zcGluX3NwZWVkIjowLCJkZWZfeWF3X3ZhbHVlIjowLCJkZWZlbnNpdmVfcGl0Y2giOiJPZmYiLCJib2R5X3NsaWRlciI6MCwicGl0Y2hfcmFuZG9tX3ZhbHVlMiI6MCwiZGVmX21vZF9kbSI6MCwieWF3X3ZhbHVlX2ppdHRlcjEiOjAsInBpdGNoX3NwaW5fdmFsdWUiOjAsInlhd19yYW5kb20iOjAsImZvcmNlX2RlZiI6ZmFsc2UsInlhd19kZWxheSI6NCwibW9kX2RtIjowLCJkZWZlbnNpdmVfdHlwZSI6IkRlZmF1bHQiLCJkZWZfbW9kX3R5cGUiOiJPZmYiLCJ5YXdfdmFsdWVfb3Bwb3NpdGUiOjAsImRlZmVuc2l2ZV95YXciOiJPZmYiLCJ5YXdfdmFsdWVfcmFuZG9tMiI6MCwiYm9keV95YXdfdHlwZSI6Ik9mZiIsInlhd192YWx1ZV9qaXR0ZXIyIjowLCJ5YXdfdmFsdWVfcmFuZG9tMSI6MCwieWF3X2xlZnQiOjAsInBpdGNoX3ZhbHVlIjowLCJwaXRjaF92YWx1ZTEiOjB9LH
