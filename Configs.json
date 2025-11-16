@@ -1,46 +1,5 @@
-local cloud_configs = {
-    config2 = {
-        {
-            enable = false,
-            yaw_type = "Default",
-            mod_type = "Off",
-            pitch_value2 = 0,
-            def_body_slider = 0,
-            defensive = false,
-            def_body_yaw_type = "Off",
-            yaw_value = 0,
-            yaw_right = 0,
-            pitch_random_value1 = 0,
-            pitch_spin_speed = 0,
-            def_yaw_value = 0,
-            defensive_pitch = "Off",
-            body_slider = 0,
-            pitch_random_value2 = 0,
-            def_mod_dm = 0,
-            yaw_value_jitter1 = 0,
-            pitch_spin_value = 0,
-            yaw_random = 0,
-            force_def = false,
-            yaw_delay = 4,
-            mod_dm = 0,
-            defensive_type = "Default",
-            def_mod_type = "Off",
-            yaw_value_opposite = 0,
-            defensive_yaw = "Off",
-            yaw_value_random2 = 0,
-            body_yaw_type = "Off",
-            yaw_value_jitter2 = 0,
-            yaw_value_random1 = 0,
-            yaw_left = 0,
-            pitch_value = 0,
-            pitch_value1 = 0
-        },
-        -- Add other configs here following the same structure
-    }
+{
+  "configs": [
+    "anoflow"
+  ]
 }
-
--- Example: print the first config
-local cfg = cloud_configs.config2[1]
-print("Yaw Type: " .. cfg.yaw_type)
-print("Pitch Value: " .. cfg.pitch_value2)
-print("Defensive: " .. tostring(cfg.defensive))
